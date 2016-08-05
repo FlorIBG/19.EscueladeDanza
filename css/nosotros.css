@@ -1,0 +1,84 @@
+/*Banner sobre nosotros*/
+.fondobail{
+	background-image: url("../img/dance_7.jpg");
+	background-color: transparent;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+.cnajuste{
+	width: 450px;
+	height: 200px;
+	padding: 3% 1%;
+	margin: 10% 30%;
+}
+/*Seccion Pilares*/
+.estilohr{
+	margin-top: 8%;
+	margin-bottom: 8%;
+	background-color: gray;
+	height: 3px;
+}
+.pdlr{
+	padding: 10% 16%;
+}
+/*Seccion Instructores*/
+/*Fotos instructores*/
+.bgrodulfo{
+	background-image: url("../img/profesor_4.jpg");
+	height: 200px;
+	width: 200px;
+    margin: 5% 3%;
+}
+.bgadam{
+    background-image: url("../img/profesor_14.jpg");
+	height: 200px;
+	width: 200px;
+    margin: 5% 1%;
+}
+.bgian{
+	background-image: url("../img/profesor_1.jpg");
+	height: 200px;
+	width: 200px;
+    margin: 5% 1%;
+    background-position:
+    background-size:auto;
+
+}
+.bgkalimba{
+	background-image: url("../img/profesor_10.jpg");
+	height: 200px;
+	width: 200px;
+    margin: 5% 1%;
+}
+/*Segunda linea de instructores*/
+.bgemma{
+	background-image: url("../img/profesor_11.jpg");
+	height: 200px;
+	width: 200px;
+      margin: 5% 3%;
+}
+.bgsam{
+    background-image: url("../img/profesor_12.jpg");
+	height: 200px;
+	width: 200px;
+    margin: 5% 1%	
+}
+.bgkim{
+	background-image: url("../img/profesor_9.jpg");
+	height: 200px;
+	width: 200px;
+   margin: 5% 1%
+}
+.bgmaggie{
+	background-image: url("../img/profesor_15.jpg");
+	height: 200px;
+	width: 200px;
+    margin: 5% 1%
+}
+/*Nombres instructores*/
+.nominstructores{
+	margin-top: 120%;
+}
+.pb-50{
+	padding-bottom: 50%;
+}

@@ -1,0 +1,36 @@
+/*Imagenes blog*/
+.medidasimg{
+	width: 240px;
+	heigth: 240px;
+	float: left;
+	margin-left: 43%;
+}
+.medidasimg2{
+	width: 250px;
+	height: 226px;
+	float: left;
+	margin-left: 43%;
+}
+/*Cuadro gris*/
+.gris1{
+	background-color: #B4B4B4;
+	padding-left: 3%;
+	padding-bottom: 1%;
+	margin-bottom: 3%;
+}
+/*Boton*/
+.buttonv{
+	background:#0C4B7D;
+	border: none;
+	color:white;
+	display:inline-block;
+	font-size:1.25em;
+	margin-left:1%;
+	padding:10px 0;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #19334d;
+	margin-top: 2.5%;
+	margin-bottom: 3%;
+}

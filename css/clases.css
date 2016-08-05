@@ -1,0 +1,60 @@
+                  /*Mosaico de imagenes*/
+            /*Primera linea*/
+/*Imagen ballet*/
+.bgballet{
+	background-image: url("../img/dance_12.jpg");
+	height: 500px;
+	width: 350px;
+	margin-left: 7%;
+	margin-bottom: 5%;
+}
+/*Imagen Dance Modern*/
+.bgdancemodern{
+	background-image: url("../img/breakdance.jpg");
+	height: 500px;
+	width: 350px;
+	margin-left: 4%;
+	margin-bottom: 5%;
+}
+/*Imagen Jazz Liric*/
+.bgjazzliric{
+	background-image: url("../img/lirical-jazz.jpg");
+	height: 500px;
+	width: 350px;
+	margin-left: 4%;
+	margin-bottom: 5%;
+}
+           /*Segunda Linea*/
+/*Imagen Arabic Dance*/
+.bgarabicdance{
+	background-image: url("../img/arabe.jpg");
+	height: 500px;
+	width: 350px;
+	margin-left: 7%;
+	margin-bottom: 5%;
+}
+/*Imagen Kids Lessons*/
+.bgkidlessons{
+	background-image: url("../img/little.jpg");
+	height: 500px;
+	width: 350px;
+	margin-left: 4%;
+	margin-bottom: 5%;
+}
+/*Imagen Yoga Dance*/
+.bgyogadance{
+	background-image: url("../img/yoga.jpg");
+	height: 500px;
+	width: 350px;
+	margin-left: 4%;
+	margin-bottom: 5%;
+}
+
+/*Cuadro gris*/
+.cuadrogris{
+	background-color: gray;
+	opacity: 0.5;
+	margin: 50% 4%;
+	width: 300px;
+	padding: 10%;
+}

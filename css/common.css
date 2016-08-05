@@ -1,0 +1,120 @@
+a{
+	text-decoration: none;
+}
+/*Menu*/
+.mlnav{
+	margin-left: 15%;
+	font-weight: bold;
+}	
+                         /*Botones*/
+/*Boton Inscribete*/
+.cajaazul{
+	background-color: #0F619D;
+	color:white;
+	text-align: center;
+	width: 130px;
+	heigth: 80px;
+	padding: 10px;
+	margin-left: 4%;
+}
+/*Boton oferta de clases*/
+.button {
+	background:#0C4B7D;
+	border: none;
+	color:black;
+	display:inline-block;
+	font-size:1.25em;
+	margin-left:40%;
+	padding:10px 0;
+	text-align:center;
+	width:300px;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #19334d;
+	margin-top: 1%;
+	margin-bottom: 10%;
+}
+.button span {
+	margin-right:10px;
+	color: white;
+}
+/*Color del boton*/
+.button .vermas{
+	background:#0C4B7D;
+}
+/*Texto frases*/
+.desescuela{
+	font-size: 200%;
+}
+                   /*Fondos*/
+/*Fondo cuadritos*/
+.fondosec2{
+	background-image: url("../img/textura_2.jpg");
+}
+/*Fondo azul marino*/
+.fondoazul{
+	background-color: #0C4B7D;
+	padding: 5% 0%;
+}
+/*Fondo zapatillas de ballet*/
+.fondozapatillas{
+	background-image: url("../img/shoes_1.jpg");
+	background-color: transparent;
+	background-repeat: no-repeat;
+	height: 400px;
+	background-position: 73% 7%;
+}
+/*Fondo flechas*/
+.fondoflechas{
+	background-image: url("../img/cubes.png");
+	background-repeat: repeat;
+}
+/*Fondo gris*/
+.fondogris{
+	background-color: #f5f5f0;
+}
+                      /*Transparencias*/
+/*Transparencia negra*/
+.cuadronegro{
+	background-color: black;
+	opacity: 0.5;
+}
+/*Titulo del formulario*/
+.tamano{
+	font-weight: bold;
+	font-size: 230%;
+	padding-left: 12%;
+	margin-bottom: 1%;
+}
+/*Formulario*/
+input, textarea{
+	border: 1px solid #BFBFBF;
+	color: rgb(83, 88, 95);
+	padding: 0% 2%;
+	margin: 1%;
+	width: 30%;
+	display: block;
+}
+input{
+	height: 30px;
+}
+.ajuste{
+    padding-left: 40px;
+	background-position: 5%;
+	background-repeat: no-repeat;
+}
+textarea.ajustet{
+	padding-left: 40px;
+	/*margin-top: -10px;*/
+	background-position: 5% 10%;
+	background-repeat: no-repeat;
+}
+input.persona{
+	background-image:  url("../img/iconos/user-2.png");
+}
+input.mail{
+	background-image:  url("../img/iconos/email.png");
+}
+textarea.pluma{
+	background-image:  url("../img/iconos/pencil.png");
+}
+
